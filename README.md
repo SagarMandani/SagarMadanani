@@ -21,7 +21,6 @@ That's why I like to make things that make a difference.
 - 👨‍🎓 I'm a **Senior Software Engineering**
 - 🔭 I’m currently working on React native mobile platform and React js
 - 💬 Ask me about anything, I am happy to help
-- 📬 How to reach me: [sagarmandani777@gmail.com](mailto:sagarmandani777@gmail.com)
 - 💪 This is where I write, code and solve problems:
 
 ## 🛠️ My favorite tools
