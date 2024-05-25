@@ -2,11 +2,11 @@
 
 I am a frontend software engineer and writer. I love programming, reading, writing and speaking.
 
-I'm a professional react native developer with 5+ years of experience in developing mobile applications and React JS development. I have created many projects for clients which are live right now. 
+I'm a professional react native developer with 6.5+ years of experience in developing mobile applications and React JS development. I have created many projects for clients which are live right now. 
 
 I am a react native developer capable of developing a smooth and attractive mobile application.
 
-Over 5+ years of experience in Mobile App development. I deliver high-quality code and high-level of client satisfaction. I need an opportunity to prove my skills. Just talk, and we can have a better understanding and can work together for a long time.
+Over 7+ years of experience in Mobile App development. I deliver high-quality code and high-level of client satisfaction. I need an opportunity to prove my skills. Just talk, and we can have a better understanding and can work together for a long time.
 
 I have acquired great knowledge in creating a seamless application for iOS and android platforms. 
 
